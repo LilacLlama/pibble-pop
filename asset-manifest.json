@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/www.pibblepop.com/static/css/main.5f361e03.chunk.css",
-    "main.js": "/www.pibblepop.com/static/js/main.772d5f37.chunk.js",
-    "main.js.map": "/www.pibblepop.com/static/js/main.772d5f37.chunk.js.map",
-    "runtime-main.js": "/www.pibblepop.com/static/js/runtime-main.3f985473.js",
-    "runtime-main.js.map": "/www.pibblepop.com/static/js/runtime-main.3f985473.js.map",
-    "static/js/2.62a1e951.chunk.js": "/www.pibblepop.com/static/js/2.62a1e951.chunk.js",
-    "static/js/2.62a1e951.chunk.js.map": "/www.pibblepop.com/static/js/2.62a1e951.chunk.js.map",
-    "index.html": "/www.pibblepop.com/index.html",
-    "precache-manifest.c496e3280b5fddc60d492167f2ded403.js": "/www.pibblepop.com/precache-manifest.c496e3280b5fddc60d492167f2ded403.js",
-    "service-worker.js": "/www.pibblepop.com/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/www.pibblepop.com/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.62a1e951.chunk.js.LICENSE.txt": "/www.pibblepop.com/static/js/2.62a1e951.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/www.pibblepop.com/static/media/logo.5d5d9eef.svg"
+    "main.css": "/pibblepop.com/static/css/main.5f361e03.chunk.css",
+    "main.js": "/pibblepop.com/static/js/main.5dffa715.chunk.js",
+    "main.js.map": "/pibblepop.com/static/js/main.5dffa715.chunk.js.map",
+    "runtime-main.js": "/pibblepop.com/static/js/runtime-main.59ccc931.js",
+    "runtime-main.js.map": "/pibblepop.com/static/js/runtime-main.59ccc931.js.map",
+    "static/js/2.62a1e951.chunk.js": "/pibblepop.com/static/js/2.62a1e951.chunk.js",
+    "static/js/2.62a1e951.chunk.js.map": "/pibblepop.com/static/js/2.62a1e951.chunk.js.map",
+    "index.html": "/pibblepop.com/index.html",
+    "precache-manifest.688f328c2b5d54b21b03b8a1ea3a696e.js": "/pibblepop.com/precache-manifest.688f328c2b5d54b21b03b8a1ea3a696e.js",
+    "service-worker.js": "/pibblepop.com/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/pibblepop.com/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.62a1e951.chunk.js.LICENSE.txt": "/pibblepop.com/static/js/2.62a1e951.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pibblepop.com/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f985473.js",
+    "static/js/runtime-main.59ccc931.js",
     "static/js/2.62a1e951.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.772d5f37.chunk.js"
+    "static/js/main.5dffa715.chunk.js"
   ]
 }
