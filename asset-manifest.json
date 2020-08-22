@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pibble-pop/static/css/main.5f361e03.chunk.css",
+    "main.js": "/pibble-pop/static/js/main.02de74e1.chunk.js",
+    "main.js.map": "/pibble-pop/static/js/main.02de74e1.chunk.js.map",
+    "runtime-main.js": "/pibble-pop/static/js/runtime-main.f982a17f.js",
+    "runtime-main.js.map": "/pibble-pop/static/js/runtime-main.f982a17f.js.map",
+    "static/js/2.62a1e951.chunk.js": "/pibble-pop/static/js/2.62a1e951.chunk.js",
+    "static/js/2.62a1e951.chunk.js.map": "/pibble-pop/static/js/2.62a1e951.chunk.js.map",
+    "index.html": "/pibble-pop/index.html",
+    "precache-manifest.d195f0d9592a9a8cc850c60ef20424fb.js": "/pibble-pop/precache-manifest.d195f0d9592a9a8cc850c60ef20424fb.js",
+    "service-worker.js": "/pibble-pop/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/pibble-pop/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.62a1e951.chunk.js.LICENSE.txt": "/pibble-pop/static/js/2.62a1e951.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pibble-pop/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f982a17f.js",
+    "static/js/2.62a1e951.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.02de74e1.chunk.js"
+  ]
+}
